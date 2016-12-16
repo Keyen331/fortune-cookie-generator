@@ -1,0 +1,11 @@
+#fortune-cookie-text {
+  width: 60px;
+  height: 20px;
+  background-color: pink;
+}
+
+#previous-fortunes {
+  width: 60px;
+  height: 20px;
+  background-color: skyblue;
+}
